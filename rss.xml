@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aecis Arkitektura]]></title>
         <description><![CDATA[Aecis Arkitektura]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aecis-arkitektura/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 19:59:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 20:05:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aecis-arkitektura/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f730232-ab66-434d-8ad5-df21359f7870.png">]]></description>
+            <link>https://thegrid.ai/aecis-arkitektura/1a380ddf-4e1d-4621-a933-5dc25585a784/index.html</link>
+            <guid isPermaLink="false">1a380ddf-4e1d-4621-a933-5dc25585a784</guid>
+            <pubDate>Thu, 04 Aug 2016 20:04:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Concept in Architecture]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be8debaf-834a-4960-8304-866cc0bd02c5.jpg">]]></description>
-            <link>undefinedthe-concept-in-architecture/index.html</link>
+            <link>https://thegrid.ai/aecis-arkitektura/the-concept-in-architecture/index.html</link>
             <guid isPermaLink="false">5c20687a-1348-494e-afbb-24de21fffed0</guid>
             <pubDate>Thu, 04 Aug 2016 19:59:47 GMT</pubDate>
         </item>
