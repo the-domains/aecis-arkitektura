@@ -1,7 +1,7 @@
 name: Aecis Arkitektura
 favicon: null
-layout_spectrum: 0.791359726106748
-typography_spectrum: 0.10468793101608753
+layout_spectrum: 0.25659
+typography_spectrum: 0.68647
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5132564813829958
-  lightness: 0.8294624697882682
-  saturation: 0.17004020349122584
-  rhythmicContrast: 0.8454236146062613
+    - '#db2b27'
+    - '#ffffff'
+    - '#e6706d'
+    - '#f6cac9'
+    - '#efa2a0'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
