@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Ricardo Torres
+  email: ricardo.torres@aecis.mx
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a41262bd-684d-43b4-9fb6-ac393170114f.png
 name: Aecis Arkitektura
 cta:
   domain: null
