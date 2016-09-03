@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Work
+    id: 1a380ddf-4e1d-4621-a933-5dc25585a784
+    type: content
 favicon: null
 title: Spaces transformed into Emotions
 description: Single-Family Residential Design
